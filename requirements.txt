@@ -1,0 +1,6 @@
+gym
+stable-baselines3
+torch
+numpy
+tensorboard
+shimmy>=2.0
